@@ -1,0 +1,43 @@
+body{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    text-align: left;
+    width: 960;
+    line-height:30px;
+}
+
+header{
+    color: #ffffff;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    float: left;
+    background-color: #4aaaa5;
+    border-bottom: none;
+    height: 100%;
+    width: 270 px;
+    margin-bottom: 0;
+    margin-left: 125px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    vertical-align: middle;
+    padding-top 15px;
+}
+
+nav{
+    width: 270px;
+    float: right;
+    text-align: center;
+    margin-right: 125px;
+}
+
+.main-container{
+    clear: both;
+    overflow: auto;
+    margin: 0 auto;
+    background-image:  
+}
+
+#main-bio{
+    height: auto;
+    padding: 20px;
+}
