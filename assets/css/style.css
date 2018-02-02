@@ -43,6 +43,19 @@ h2{
     border-bottom: 3px solid #dddddd;
 }
 
+project{
+    display: inline;
+}
+
+.project-title {
+	float: center;
+	position: relative;
+	width: auto;
+	height: 30px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+    text-align: center
+}    
 
 nav{
     width: 270px;
