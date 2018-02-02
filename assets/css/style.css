@@ -43,6 +43,11 @@ h2{
     border-bottom: 3px solid #dddddd;
 }
 
+#bio-image{
+    float: left;
+    padding: 10px;
+}
+
 .project{
     display: inline;
 }
@@ -62,6 +67,8 @@ nav{
     float: right;
     text-align: right;
     margin-right: 125px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777
 }
 
 .main-container{
